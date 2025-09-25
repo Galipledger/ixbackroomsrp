@@ -1,0 +1,8 @@
+"ixbackroomsrp"
+{
+	"base"		"helix"
+	"title"		"HL2 RP"
+	"author"	"nebulous.cloud"
+	"category"	"rp"
+	"menusystem" "1"
+}
