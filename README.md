@@ -1,4 +1,4 @@
-# The Safehouse: Backrooms
-The Backrooms is a dimension tied to The Safehouse.
+# IX: Backrooms Roleplay
+The Backrooms is a mysterious and unknown dimension.
 
-https://steamcommunity.com/sharedfiles/filedetails/?id=3552739956
+
