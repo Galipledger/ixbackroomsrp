@@ -37,7 +37,7 @@ SWEP.holdDistance = 64
 SWEP.maxHoldDistance = 96
 SWEP.maxHoldStress = 4000
 SWEP.HitDistance = 0
-SWEP.LoweredAngle = Angle(-45, 0, 0)
+SWEP.LowerAngles = Angle(0, 0, 0)
 
 
 function SWEP:SetupDataTables()
