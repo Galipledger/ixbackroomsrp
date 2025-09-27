@@ -1,6 +1,6 @@
 PLUGIN.name = "Animation Fix"
 PLUGIN.author = "nicwtf"
-PLUGIN.description = "Fixes animations for factions"
+PLUGIN.description = "Fixes animations for factions."
 
 local modelClasses = {
     ["player"] = {

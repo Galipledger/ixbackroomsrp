@@ -1,7 +1,7 @@
 local PLUGIN = PLUGIN
 PLUGIN.name = "Visual"
 PLUGIN.author = "nicwtf"
-PLUGIN.description = "Color correction, viewroll, and viewbob."
+PLUGIN.description = "Color correction, viewbob, and viewroll."
 
 if CLIENT then
     hook.Add("RenderScreenspaceEffects", "ixVisualPostFX", function()
